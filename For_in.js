@@ -6,5 +6,5 @@
   ];
 
   for (let i in obj) {
-    console.table(obj[i]);
+    console.log(obj[i]);
   }
