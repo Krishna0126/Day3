@@ -6,6 +6,6 @@ var obj = [
 
   for( let i =0;i<obj.length;i++)
   {
-      console.table(obj[i]);
+      console.log(obj[i]);
     
   }
